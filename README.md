@@ -1,4 +1,4 @@
-# Python scripts, Pandas and Numpy
+# Python read csv scripts, with Pandas.
 Inlcuded are some scripts i wrote which take csv files, read them, and organise them, or reorganise the data, either categorical or numerical.
 
 ### collections_Counter.py
